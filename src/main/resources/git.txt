@@ -3,8 +3,11 @@ git status // kiểm tra xem có nhung project nào có thể đẩy lên git
 gitignore // thư mục này dùng để bỏ qua những file không muốn đẩy lên git
 git add . // add tất cả file lên git
 git add [...]
-git remote add origin [url]
 git commit -m [message]
+git remote add origin [url]
 git branch -M main // cấu hình nhánh chính
 git push -u origin main // đẩy file lên git
 gh auth login// đăng nhập git
+
+-- Tạo nhánh và chuyển qua nó
+git checkout -b [branch_name]
