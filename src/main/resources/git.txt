@@ -11,3 +11,6 @@ gh auth login// đăng nhập git
 
 -- Tạo nhánh và chuyển qua nó
 git checkout -b [branch_name]
+
+-- Chuyển qua nhánh
+git checkout [branch_name]
