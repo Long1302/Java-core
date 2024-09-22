@@ -14,3 +14,6 @@ git checkout -b [branch_name]
 
 -- Chuyển qua nhánh
 git checkout [branch_name]
+
+-- Xóa nhánh
+git branch -D [branch_name]
