@@ -4,7 +4,7 @@ gitignore // thư mục này dùng để bỏ qua những file không muốn đ�
 git add . // add tất cả file lên git
 git add [...]
 git commit -m [message]
-git remote add origin [url]
+git remote add origin [url] // thêm đường dẫn git
 git branch -M main // cấu hình nhánh chính
 git push -u origin main // đẩy file lên git
 gh auth login// đăng nhập git
