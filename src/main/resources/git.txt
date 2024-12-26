@@ -6,7 +6,7 @@ git add [...]
 git commit -m [message]
 git remote add origin [url] // thêm đường dẫn git
 git branch -M main // cấu hình nhánh chính
-git push -u origin main // đẩy file lên git
+git push -u origin [branch_name] // đẩy file lên git
 gh auth login// đăng nhập git
 
 -- Tạo nhánh và chuyển qua nó
